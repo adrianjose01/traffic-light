@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "../src/app.css";
+import "./App.css";
 import Counter from "./components/Counter";
 import Light from "./components/Light";
 
